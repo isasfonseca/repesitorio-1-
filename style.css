@@ -1,7 +1,7 @@
 body{
- background: rgb(245, 206, 213)
+   background: rgb(245, 206, 213)
 }
-h1 {
+h1{
     font-size: 60px;
     color: rgba(255, 117, 117, 0.856);
     text-align: center;
@@ -23,9 +23,9 @@ img {
     background-color: rgb(103,187,189)
      display: flex;
  }
- .logocabecalho{
+.logocabecalho{
     width: 100px;
- }
+}
 lista_cabecalho{
     display: flex;
     margin-left: 500px;
