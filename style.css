@@ -31,7 +31,7 @@ lista_cabecalho{
     margin-left: 500px;
 }
 .item_lista_cabecalho{
-    color: rgba(255, 168, 214, 0.651);
+    color: rgb(238, 57, 153);
     list-style: none;
     text-transform: uppercase;
     font-size: 10px;
